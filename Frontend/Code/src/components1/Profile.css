@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.profile {
+  background: url("D:\GNIT\Eighth Semester\Capgemini\BU\Code\src\assets\white.jpg")
+    no-repeat center/cover;
+  height: 770px;
+  margin-top: -10%;
+}
+.sidenav {
+      background: url("D:\GNIT\Eighth Semester\Capgemini\BU\Code\src\assets\blue.jpg");
+      height: 100%;
+    }
