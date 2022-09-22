@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1661167361083_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1661167361147_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1663480222621_3" label="booking-info-service" name="booking-info-service">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/booking-info-service" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1663480247219_4" label="discovery-server" name="discovery-server">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/discovery-server" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1663480277783_5" label="handler-info-service" name="handler-info-service">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/handler-info-service" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1663480303743_6" label="paytm-info-service" name="paytm-info-service">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/paytm-info-service" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1663480360540_7" label="railway-config-server" name="railway-config-server">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/railway-config-server" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1663480396988_8" label="spring-cloud-api-gateway" name="spring-cloud-api-gateway">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-cloud-api-gateway" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1663480418851_9" label="spring-security-jwt" name="spring-security-jwt">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-security-jwt" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1663480438722_10" label="train-info-service" name="train-info-service">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/train-info-service" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1661167369992_2" label="Window Working Set" name="Aggregate for window 1661167369991"/>
+</workingSetManager>
